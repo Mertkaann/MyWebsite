@@ -1168,10 +1168,10 @@ nav#filter li {
 /*SECTION contact
 =================================================*/
 
-#section-contact{
+#contactMe{
 	background: #000;
 }
-#section-contact .heading-title{
+#contactMe .heading-title{
 	color: #fff;
 }
 .contact-left{
